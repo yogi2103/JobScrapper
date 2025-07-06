@@ -1,8 +1,15 @@
+# .github/workflows/scrape-jobs.yml
+
 name: Scheduled Job Scrape
+
+# Grant write access so the workflow can push updates
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    # every 30 minutes (UTC)
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Check out code
         uses: actions/checkout@v4
         with:
           persist-credentials: true
@@ -18,7 +25,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
@@ -29,13 +36,12 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python src/Scraper.py
+        run: python Scraper.py
 
-      - name: Commit updated data files
+      - name: Commit updated cache files
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add company_fc_cache.json seen_jobs_dict.json
-          git commit -m "chore: update scraped job state" || echo "No changes to commit"
+          git commit -m "chore: update scraped job state" || echo "No changes"
           git push
