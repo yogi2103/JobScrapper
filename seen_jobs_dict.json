@@ -210,7 +210,17 @@
     "https://in.linkedin.com/jobs/view/software-development-engineer-ii-global-logistics-global-logistics-at-amazon-4265284406": "2025-07-12T01:12:04.684733",
     "https://in.linkedin.com/jobs/view/software-development-engineer-ii-global-logistics-global-logistics-at-amazon-4265283523": "2025-07-12T01:12:09.571562",
     "https://in.linkedin.com/jobs/view/system-development-engineer-agi-infrastructure-at-amazon-4265281659": "2025-07-12T01:12:11.942623",
-    "https://in.linkedin.com/jobs/view/front-end-engineer-i-at-amazon-4253806231": "2025-07-12T11:36:07.375234"
+    "https://in.linkedin.com/jobs/view/front-end-engineer-i-at-amazon-4253806231": "2025-07-12T11:36:07.375234",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4254286400": "2025-07-12T12:25:17.616473",
+    "https://in.linkedin.com/jobs/view/sde-amazon-cs-level-5-chex-at-amazon-4125408011": "2025-07-12T12:26:16.832457",
+    "https://in.linkedin.com/jobs/view/quality-assurance-engineer-i-amazon-business-private-brands-re-commerce-at-amazon-4240666128": "2025-07-12T12:26:38.243161",
+    "https://in.linkedin.com/jobs/view/sde2-at-amazon-4110230533": "2025-07-12T12:26:46.793619",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4253878242": "2025-07-12T12:26:50.524441",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4254288270": "2025-07-12T12:26:55.626838",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4254285406": "2025-07-12T12:26:57.885215",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4254281746": "2025-07-12T12:27:00.628652",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4254285411": "2025-07-12T12:27:04.727083",
+    "https://in.linkedin.com/jobs/view/software-development-engineer-ordering-at-amazon-4254289135": "2025-07-12T12:27:07.024008"
   },
   "Razorpay": {
     "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-at-razorpay-4262800542": "2025-07-08T11:38:05.724526"
@@ -230,7 +240,8 @@
   "Visa": {
     "https://in.linkedin.com/jobs/view/software-test-engineer-2yrs-to-3-yrs-java-automation-selenium-at-visa-4262388705": "2025-07-08T11:45:16.521442",
     "https://in.linkedin.com/jobs/view/sw-test-engineer-2023-or-2024-pass-out-java-rest-assure-api-design-at-visa-4263177701": "2025-07-09T04:56:27.795300",
-    "https://in.linkedin.com/jobs/view/site-reliability-engineer-linux-production-support-1-2-yrs-at-visa-4264069746": "2025-07-10T08:24:09.768773"
+    "https://in.linkedin.com/jobs/view/site-reliability-engineer-linux-production-support-1-2-yrs-at-visa-4264069746": "2025-07-10T08:24:09.768773",
+    "https://in.linkedin.com/jobs/view/desktop-developer-platform-staff-level-at-visa-4223719890": "2025-07-12T12:31:05.580706"
   },
   "Coinbase": {
     "https://in.linkedin.com/jobs/view/offensive-security-engineer-offensive-security-at-coinbase-4238229778": "2025-07-08T14:17:57.207859"
@@ -246,6 +257,10 @@
     "https://in.linkedin.com/jobs/view/software-engineer-ii-at-rippling-4264630914": "2025-07-10T18:51:17.732163"
   },
   "Deliveroo": {
-    "https://in.linkedin.com/jobs/view/engineering-manager-at-deliveroo-4265355737": "2025-07-11T18:22:53.925083"
+    "https://in.linkedin.com/jobs/view/engineering-manager-at-deliveroo-4265355737": "2025-07-11T18:22:53.925083",
+    "https://in.linkedin.com/jobs/view/senior-analytics-engineer-at-deliveroo-4253712817": "2025-07-12T12:31:50.063283"
+  },
+  "Remitly": {
+    "https://in.linkedin.com/jobs/view/software-engineer-i-at-remitly-4253875052": "2025-07-12T12:32:20.796444"
   }
 }
