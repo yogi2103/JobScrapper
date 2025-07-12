@@ -41,7 +41,10 @@
     "https://in.linkedin.com/jobs/view/software-engineer-at-oracle-4252106913": "2025-07-11T14:44:05.826940",
     "https://in.linkedin.com/jobs/view/software-engineer-at-oracle-4252110759": "2025-07-11T14:44:08.224871",
     "https://in.linkedin.com/jobs/view/software-engineer-at-oracle-4252109702": "2025-07-11T14:44:27.501001",
-    "https://in.linkedin.com/jobs/view/oracle-epm-consultant-arcs-developer-sr-developer-architect-at-oracle-3980774663": "2025-07-12T04:06:22.336587"
+    "https://in.linkedin.com/jobs/view/oracle-epm-consultant-arcs-developer-sr-developer-architect-at-oracle-3980774663": "2025-07-12T04:06:22.336587",
+    "https://in.linkedin.com/jobs/view/java-application-developer-at-oracle-4253835847": "2025-07-12T16:16:00.827692",
+    "https://in.linkedin.com/jobs/view/java-application-developer-at-oracle-4253837771": "2025-07-12T16:16:03.266711",
+    "https://in.linkedin.com/jobs/view/java-application-developer-at-oracle-4253837770": "2025-07-12T16:16:05.622894"
   },
   "Confluent": {
     "https://in.linkedin.com/jobs/view/systems-engineer-at-confluent-4263255544": "2025-07-07T10:48:32.187244"
@@ -262,5 +265,8 @@
   },
   "Remitly": {
     "https://in.linkedin.com/jobs/view/software-engineer-i-at-remitly-4253875052": "2025-07-12T12:32:20.796444"
+  },
+  "Docusign": {
+    "https://in.linkedin.com/jobs/view/enterprise-applications-engineer-at-docusign-4238445128": "2025-07-12T16:16:19.521797"
   }
 }
