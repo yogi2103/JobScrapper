@@ -699,7 +699,8 @@
     "https://in.linkedin.com/jobs/view/software-development-engineer-amazon-pay-at-amazon-4145085523": "2025-07-29T12:31:20.587910",
     "https://in.linkedin.com/jobs/view/software-development-engineer-amazon-at-amazon-4222763846": "2025-07-29T12:31:27.040233",
     "https://in.linkedin.com/jobs/view/front-end-engineer-i-at-amazon-4263272316": "2025-07-29T12:31:32.330245",
-    "https://in.linkedin.com/jobs/view/sde2-at-amazon-4119782789": "2025-07-29T12:31:38.026757"
+    "https://in.linkedin.com/jobs/view/sde2-at-amazon-4119782789": "2025-07-29T12:31:38.026757",
+    "https://in.linkedin.com/jobs/view/support-engineer-ii-at-amazon-4207005335": "2025-07-29T14:20:48.841753"
   },
   "Razorpay": {
     "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-at-razorpay-4262800542": "2025-07-08T11:38:05.724526",
@@ -827,5 +828,8 @@
   },
   "Cohesity": {
     "https://in.linkedin.com/jobs/view/system-engineer-active-directory-unix-solaris-aix-hpux-openshift-kvm-at-cohesity-4268210256": "2025-07-25T08:19:53.472782"
+  },
+  "Airbnb": {
+    "https://in.linkedin.com/jobs/view/software-engineer-biztech-at-airbnb-4277653902": "2025-07-29T14:22:12.352696"
   }
 }
