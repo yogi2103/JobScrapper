@@ -2353,7 +2353,8 @@
     "https://www.linkedin.com/jobs/view/software-engineering-ii-backend-at-microsoft-4402941893": "2026-04-16T13:28:12.416381",
     "https://www.linkedin.com/jobs/view/customer-experience-engineer-at-microsoft-4402936962": "2026-04-16T13:28:27.016508",
     "https://www.linkedin.com/jobs/view/critical-environment-field-service-engineer-at-microsoft-4402953027": "2026-04-16T13:28:57.155922",
-    "https://www.linkedin.com/jobs/view/software-development-consultant-ctj-ts-sci-at-microsoft-4402953028": "2026-04-16T13:29:00.241711"
+    "https://www.linkedin.com/jobs/view/software-development-consultant-ctj-ts-sci-at-microsoft-4402953028": "2026-04-16T13:29:00.241711",
+    "https://www.linkedin.com/jobs/view/software-engineering-ctj-poly-at-microsoft-4402940897": "2026-04-16T15:36:56.192397"
   },
   "Amazon": {
     "https://in.linkedin.com/jobs/view/support-engineer-at-amazon-4263494257": "2025-07-07T19:12:12.910824",
@@ -4505,7 +4506,8 @@
     "https://in.linkedin.com/jobs/view/staff-engineer-genai-developer-at-visa-4401191759": "2026-04-15T10:20:34.451440",
     "https://www.linkedin.com/jobs/view/software-engineer-at-visa-4401498061": "2026-04-15T20:55:35.918220",
     "https://www.linkedin.com/jobs/view/software-engineer-at-visa-4401476553": "2026-04-15T20:55:41.252862",
-    "https://www.linkedin.com/jobs/view/genai-applications-program-analyst-senior-swe-at-visa-4401480405": "2026-04-15T20:55:48.994759"
+    "https://www.linkedin.com/jobs/view/genai-applications-program-analyst-senior-swe-at-visa-4401480405": "2026-04-15T20:55:48.994759",
+    "https://sg.linkedin.com/jobs/view/systems-engineer-at-visa-4402150017": "2026-04-16T15:43:03.927445"
   },
   "Coinbase": {
     "https://in.linkedin.com/jobs/view/offensive-security-engineer-offensive-security-at-coinbase-4238229778": "2025-07-08T14:17:57.207859",
@@ -4517,7 +4519,8 @@
     "https://in.linkedin.com/jobs/view/software-engineer-eaa-at-coinbase-4369239708": "2026-02-04T20:59:30.144274",
     "https://in.linkedin.com/jobs/view/software-engineer-backend-platform-risk-at-coinbase-4370918746": "2026-02-10T06:14:50.368179",
     "https://in.linkedin.com/jobs/view/software-engineer-eaa-at-coinbase-4363245022": "2026-02-12T07:47:14.300767",
-    "https://in.linkedin.com/jobs/view/software-engineer-backend-at-coinbase-4392901451": "2026-03-30T13:03:38.484230"
+    "https://in.linkedin.com/jobs/view/software-engineer-backend-at-coinbase-4392901451": "2026-03-30T13:03:38.484230",
+    "https://ca.linkedin.com/jobs/view/software-engineer-developer-wallets-and-onchain-tools-at-coinbase-4381114536": "2026-04-16T15:37:44.617715"
   },
   "Atlassian": {
     "https://in.linkedin.com/jobs/view/backend-software-engineer-i-at-atlassian-4263370829": "2025-07-09T13:10:28.796438",
@@ -4803,7 +4806,11 @@
     "https://sg.linkedin.com/jobs/view/software-engineering-machine-learning-singapore-at-meta-4338020860": "2026-04-16T12:05:02.103333",
     "https://www.linkedin.com/jobs/view/software-engineer-product-at-meta-4255814121": "2026-04-16T12:06:32.228368",
     "https://sg.linkedin.com/jobs/view/front-end-engineer-manus-at-meta-4361831751": "2026-04-16T13:19:28.054004",
-    "https://sg.linkedin.com/jobs/view/front-end-engineer-manus-at-meta-4361841034": "2026-04-16T13:19:31.257928"
+    "https://sg.linkedin.com/jobs/view/front-end-engineer-manus-at-meta-4361841034": "2026-04-16T13:19:31.257928",
+    "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-meta-4254372617": "2026-04-16T15:18:01.290748",
+    "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-meta-4286300838": "2026-04-16T15:19:10.985421",
+    "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-meta-4286305331": "2026-04-16T15:19:48.997581",
+    "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-meta-4376267060": "2026-04-16T15:20:00.859205"
   },
   "Cohesity": {
     "https://in.linkedin.com/jobs/view/system-engineer-active-directory-unix-solaris-aix-hpux-openshift-kvm-at-cohesity-4268210256": "2025-07-25T08:19:53.472782",
